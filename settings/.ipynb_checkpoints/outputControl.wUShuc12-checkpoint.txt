@@ -1,0 +1,30 @@
+! ---------
+! parms
+! ---------
+hruId
+!gruId
+! ---------
+! forcings
+! ---------
+pptrate                        | 24
+airtemp                       | 24
+! -------------------------
+! model variables
+! -------------------------
+scalarSWE                     | timestep 
+scalarRainPlusMelt            | timestep
+scalarTotalSoilWat            | timestep
+mLayerVolFracLiq              | timestep
+!mLayerTemp                   | timestep
+!
+averageInstantRunoff           | timestep
+scalarSurfaceRunoff           | timestep 
+scalarSoilBaseflow            | timestep 
+scalarSoilDrainage            | timestep
+!
+!scalarAquiferStorage          | timestep
+!scalarAquiferRecharge         | timestep
+!scalarAquiferTranspire        | timestep
+scalarAquiferBaseflow          | timestep
+!
+! numberFluxCalc               | timestep
