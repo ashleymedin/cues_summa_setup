@@ -7,8 +7,8 @@
 ! (2) the name of the decision is followed by the character string defining the decision
 ! (3) the simulation start/end times must be within single quotes
 ! ***********************************************************************************************************************
-simulStart    '2016-01-01 01:00'   ! simulation start time
-simulFinsh    '2016-12-31 01:00'   ! simulation end time
+simulStart    '2010-10-01 00:00'   ! simulation start time
+simulFinsh    '2017-08-01 23:00'   ! simulation end time
 !simulStart    '1999-01-01 00:30'   ! simulation start time
 !simulFinsh    '2006-01-01 00:00'   ! simulation end time
 soilCatTbl    ROSETTA              ! soil-category dataset
