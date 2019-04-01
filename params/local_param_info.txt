@@ -144,6 +144,7 @@ zScale_TOPMODEL           |       2.5000 |       0.1000 |     100.0000
 compactedDepth            |       1.0000 |       0.0000 |       1.0000
 aquiferScaleFactor        |       0.3500 |       0.1000 |     100.0000
 aquiferBaseflowExp        |       2.0000 |       1.0000 |      10.0000
+aquiferBaseflowRate       |       0.7000 |       1.0000 |      10.0000
 qSurfScale                |      50.0000 |       1.0000 |     100.0000
 specificYield             |       0.2000 |       0.1000 |       0.3000
 specificStorage           |       1.0d-9 |       1.0d-5 |       1.0d-7
