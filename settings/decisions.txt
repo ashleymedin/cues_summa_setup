@@ -8,7 +8,7 @@
 ! (3) the simulation start/end times must be within single quotes
 ! ***********************************************************************************************************************
 simulStart    '2010-10-01 00:00'   ! simulation start time
-simulFinsh    '2017-08-01 23:00'   ! simulation end time
+simulFinsh    '2019-03-30 23:00'   ! simulation end time
 !simulStart    '1999-01-01 00:30'   ! simulation start time
 !simulFinsh    '2006-01-01 00:00'   ! simulation end time
 soilCatTbl    ROSETTA              ! soil-category dataset
@@ -38,4 +38,4 @@ snowLayers    CLM_2010             ! choice of method to combine and sub-divide 
 thCondSnow    jrdn1991             ! choice of thermal conductivity representation for snow
 thCondSoil    funcSoilWet          ! choice of thermal conductivity representation for soil
 spatial_gw    localColumn          ! choice of method for spatial representation of groundwater
-subRouting    timeDlay             ! choice of method for sub-grid routing
+subRouting    qInstant             ! choice of method for sub-grid routing
