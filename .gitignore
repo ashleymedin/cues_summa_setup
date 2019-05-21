@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+dask-worker-space
+file_manager.txt
+output/*.nc
+params/*
+settings/*
