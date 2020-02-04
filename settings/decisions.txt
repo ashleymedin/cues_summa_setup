@@ -9,6 +9,7 @@
 ! ***********************************************************************************************************************
 simulStart    '2010-10-01 00:00'   ! simulation start time
 simulFinsh    '2019-03-30 23:00'   ! simulation end time
+tmZoneInfo    localTime            ! time zone information
 soilCatTbl    ROSETTA              ! soil-category dataset
 vegeParTbl    MODIFIED_IGBP_MODIS_NOAH ! vegetation-category dataset
 soilStress    NoahType             ! choice of function for the soil moisture control on stomatal resistance
