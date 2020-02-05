@@ -42,3 +42,8 @@ scalarCanairNetNrgFlux               | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0
 scalarCanopyNetNrgFlux               | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0
 scalarGroundNetNrgFlux               | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0
 scalarNetRadiation                   | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0
+scalarSnowDepth                      | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0
+mLayerTemp                           | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0
+mLayerDepth                          | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0
+iLayerHeight                         | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0
+mLayerHeight                         | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0
