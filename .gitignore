@@ -4,3 +4,4 @@ file_manager.txt
 output/*.nc
 params/*
 settings/*
+output/runinfo.txt
